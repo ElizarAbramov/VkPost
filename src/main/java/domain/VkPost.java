@@ -23,7 +23,7 @@ public class VkPost {
     private Content content;
     private CommentsInfo commentsInfo;
     private Copyright copyright;
-    private LikesInfo likes;
+    private LikesInfo likesinfo;
     private ViewsInfo viewsInfo;
     private PostSource postSource;
     private Geo geo;
